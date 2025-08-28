@@ -1,5 +1,6 @@
 import Header from './components/Header.jsx';
 import Quiz from './components/Quiz.jsx';
+
 function App() {
     return (
         <>
@@ -8,7 +9,7 @@ function App() {
                 <Quiz />
             </main>
         </>
-    )
+    );
 }
 
 export default App;
